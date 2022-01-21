@@ -1,0 +1,138 @@
+*{
+    margin: 0px;
+    padding: 0px;
+   
+}
+#main-page{
+    background-color: rgb(228, 235, 234);
+    min-width: 330px;
+    max-width: 1000px;
+    min-height: 20%;
+    mix-height: 100%;
+}
+#main-div{
+    background-color:#4285f4;
+    width: 870px;
+    height: 220px;
+    display: inline-flex;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    font-family: sans-serif;
+    box-shadow: 5px 5px 5px #777777;
+  
+
+   
+   
+  
+    
+}
+
+#first-div{
+ background-color: white;
+ margin-left: 3% ;
+ padding: 7%;
+
+
+}
+.first-span{
+    color: black;
+    font-weight: bold;
+    font-size: 40px;
+}
+.second-span{
+    font-weight: bold;
+    font-size: 40px;
+    color: rgb(95, 118, 223);
+}
+.third-span{
+    border-bottom: 3px solid rgb(95, 118, 223);
+}
+
+#second-div{
+    background-color: rgb(95, 118, 223);
+    padding: 4%;
+
+}
+#img{
+ 
+  border-radius: 100%;
+  border: 6px solid white;
+}
+
+#third-div{
+    background-color: white;
+    padding: 20px;
+}
+.icon-img{
+    vertical-align: middle;
+}
+
+
+
+/* Second-part */
+
+#main-div-2{
+    background-color:white;
+    width: 870px;
+    height: 220px;
+    display: inline-flex;
+    margin-top: 3%;
+    margin-bottom: 10%;
+    font-family: sans-serif;
+    border-left: 20px solid rgb(248, 203, 5);
+    border-right: 20px solid rgb(248, 203, 5) ;
+    box-shadow: 5px 5px 5px #777777;
+   
+  
+    
+}
+
+#first-div-2{
+
+ margin-left: 3% ;
+ padding: 7%;
+
+
+}
+.first-span-2{
+    color: black;
+    font-weight: bold;
+    font-size: 40px;
+}
+.second-span-2{
+    font-weight: bold;
+    font-size: 40px;
+    color: rgb(248, 203, 5);
+}
+.third-span-2{
+    border-bottom: 3px solid rgb(248, 203, 5);
+}
+
+#second-div-2{
+ 
+    padding: 4%;
+
+}
+.img{
+ 
+  border-radius: 100%;
+  border: 6px solid rgb(248, 203, 5);
+  margin-top: -20px;
+}
+
+#third-div-2{
+    background-color: white;
+    padding: 20px;
+}
+.icon-img{
+    vertical-align: middle;
+}
+.second-span-3{
+    color: rgb(248, 203, 5);
+    
+}
+#para-1{
+    margin-top: -40px;
+    font-weight: bold;
+    margin-right: 70px;
+}
